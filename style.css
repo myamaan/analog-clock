@@ -1,0 +1,25 @@
+@font-face {
+    font-family: condiment;
+    src: url(./Condiment/Condiment-Regular.ttf);
+}
+body {
+   background-color: #add8e6;
+
+
+}
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container { 
+    background: radial-gradient(circle, #1e3c72, #2a5298);
+    color: #00ffcc; 
+    font-family: condiment;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 3rem;
+    border: 3px solid black;
+    margin: 150px 600px;
+    border-radius: 50px;
+}
